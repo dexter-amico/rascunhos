@@ -2,7 +2,7 @@
 
 Este repositório contém apenas rascunhos de projetos utilizados para compartilhar e tirar dúvidas.
 
-## **LISTA DE CONTEÚDOS**
+#### **LISTA DE CONTEÚDOS**
 
-- COMANDA
+- Comanda
 > Um pequeno exercício para a criação de uma comanda.
